@@ -2,7 +2,7 @@
 
 ## Aplicación Web con React para Warm Up Alkemy.
 
-Aplicación de Blog fake realizada con React consumiendo la API git@github.com:federicomontillo/blogApp.git para simular un CRUD.
+Aplicación de Blog fake realizada con React consumiendo la API https://jsonplaceholder.typicode.com/ para simular un CRUD.
 
 ### Instrucciones de compilación y ejecución
 
